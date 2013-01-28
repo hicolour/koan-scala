@@ -1,0 +1,4 @@
+koan-scala
+==========
+
+scala koan
